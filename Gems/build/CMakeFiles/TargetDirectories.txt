@@ -1,0 +1,3 @@
+/home/royalist/Рабочий стол/c++/Язык_кодирования_С++/GEMS (копия)/Gems/build/CMakeFiles/Game.dir
+/home/royalist/Рабочий стол/c++/Язык_кодирования_С++/GEMS (копия)/Gems/build/CMakeFiles/edit_cache.dir
+/home/royalist/Рабочий стол/c++/Язык_кодирования_С++/GEMS (копия)/Gems/build/CMakeFiles/rebuild_cache.dir
